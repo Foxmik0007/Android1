@@ -1,4 +1,4 @@
-package com.seg2505.sql;
+package com.seg2505.lab7;
 
 import org.junit.Test;
 

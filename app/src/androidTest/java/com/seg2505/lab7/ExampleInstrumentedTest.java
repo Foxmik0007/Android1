@@ -1,4 +1,4 @@
-package com.seg2505.sql;
+package com.seg2505.lab7;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.seg2505.sql", appContext.getPackageName());
+        assertEquals("com.seg2505.lab7", appContext.getPackageName());
     }
 }
